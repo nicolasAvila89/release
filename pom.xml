@@ -7,7 +7,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.0.2.RELEASE</version>
 	</parent>
-	<artifactId>subject-maven</artifactId>
+	<artifactId>clase-maven</artifactId>
 	<groupId>com.despegar.university</groupId>
 	<name>Spring Boot Simple Sample</name>
 	<description>Spring Boot Simple Sample</description>
