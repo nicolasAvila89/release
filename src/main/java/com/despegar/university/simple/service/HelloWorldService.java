@@ -31,6 +31,7 @@ public class HelloWorldService {
 	public String getHelloMessage() {
 		logger.error("Hello " + this.name);
 
+
 		return "Hello " + this.name;
 	}
 
