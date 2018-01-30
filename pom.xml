@@ -11,13 +11,13 @@
 	<groupId>com.despegar.university</groupId>
 	<name>Spring Boot Simple Sample</name>
 	<description>Spring Boot Simple Sample</description>
-	<version>1.4</version>
+	<version>1.5-SNAPSHOT</version>
 	<url>http://projects.spring.io/spring-boot/</url>
     <scm>
         <connection>scm:git:git@github.com:nicolasAvila89/release.git</connection>
         <developerConnection>scm:git:git@github.com:nicolasAvila89/release.git</developerConnection>
         <url>https://github.com/nicolasAvila89/release</url>
-      <tag>clase-maven-1.4</tag>
+      <tag>HEAD</tag>
     </scm>
 
 	<organization>
